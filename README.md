@@ -233,6 +233,8 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
+![snake gif](https://github.com/ashimkhadkaofficial/workflows/blob/output/github-contribution-grid-snake.gif)
+
 ## 🎮 Outside the Terminal
 
 When I'm not writing code, you'll probably find me exploring technology, gaming, watching football, or discovering something completely unrelated to programming.
