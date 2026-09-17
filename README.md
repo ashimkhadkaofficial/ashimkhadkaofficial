@@ -242,7 +242,6 @@ When I'm not writing code, you'll probably find me exploring technology, gaming,
 <div align="center">
 
 ## ✨ Build Something Worth Remembering
-
 <p>
 <i>"Every project teaches something the tutorial never could."</i>
 </p>
