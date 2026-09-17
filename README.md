@@ -13,16 +13,16 @@
 
 <br><br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/ashimkhadkaofficial">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/ashim-khadka-b3132a2a6/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://www.ashimkhadka7.com.np/">
 <img src="https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="#">
+<a href="mailto:ashimkhadka572@gmail.com?subject=Project%20Inquiry&body=Hello%20Ashim%2C%0A%0AI%20would%20like%20to%20discuss%20a%20project%20with%20you.%0A%0AThank%20you.">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
