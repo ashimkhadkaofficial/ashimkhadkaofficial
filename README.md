@@ -222,10 +222,10 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 ## ⭐ Contribution Streaks
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anishsharma90&theme=tokyonight&hide_border=true&border_radius=10" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ashimkhadkaofficial&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ashimkhadkaofficial&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
+
 
 <sub>Contribution animation generated through GitHub Actions.</sub>
 
