@@ -235,7 +235,7 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 ## 🐍 ** — Let the Snake Eat My Contributions 🍽️**
 
-![snake gif](https://github.com/MeghnaS21/MeghnaS21/raw/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 ## 🎮 Outside the Terminal
 
