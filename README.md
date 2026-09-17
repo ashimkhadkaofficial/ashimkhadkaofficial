@@ -220,7 +220,7 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <div align="center">
 
-<img src="https://github.com/ashimkhadkaofficial/ashimkhadkaofficial/blob/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="98%"/>
 
 </div>
 
