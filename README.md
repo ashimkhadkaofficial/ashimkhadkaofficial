@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+
 </div>
 
 <br>
@@ -186,24 +187,51 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
 ## 📈 GitHub Activity
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashimkhadkaofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashimkhadkaofficial&theme=radical&hide_border=true&background=0D1117" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" height="165" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
+
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimkhadkaofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117" width="98%" />
+
 </div>
+
+<br>
+
 ## 🏅 GitHub Trophies
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashimkhadkaofficial&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6&margin-w=12" />
+
 </div>
+
+<br>
+
 ## 🐍 Contribution Journey
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="98%" />
+
 </div>
-<p align="center">
-  🐍 <i>Contributions in motion.</i>
-</p>
+
+<sub>Contribution animation generated through GitHub Actions.</sub>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## 🎮 Outside the Terminal
 
