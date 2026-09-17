@@ -188,31 +188,65 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-<h2>📊 GitHub Statistics</h2>
+<h2>📈 GitHub Statistics</h2>
 
 <div align="center">
 
-  <!-- Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=ashimkhadkaofficial&theme=radical&hide_border=true&background=0D1117&border_radius=10"
-    width="70%"
-    alt="GitHub Streak"
-  />
+<img
+src="https://streak-stats.demolab.com?user=ashimkhadkaofficial&theme=radical&hide_border=true&background=0D1117&border_radius=10"
+width="70%"
+/>
 
-  <br><br>
+<br><br>
 
-  <!-- Stats + Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ashimkhadkaofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github"
-    width="48%"
-    alt="GitHub Stats"
-  />
+<img
+src="https://github-readme-stats.vercel.app/api?username=ashimkhadkaofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github"
+width="48%"
+/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimkhadkaofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
-    width="48%"
-    alt="Top Languages"
-  />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimkhadkaofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
+width="48%"
+/>
+
+</div>
+
+
+<h2>📅 Contribution Graph</h2>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ashimkhadkaofficial&bg_color=0D1117&color=FFFFFF&line=7B61FF&point=00D9FF&area=true&hide_border=true"
+width="95%"
+/>
+
+</div>
+
+
+<h2>🐍 Contribution Journey</h2>
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="GitHub Contribution Snake"
+/>
+
+</picture>
 
 </div>
 
