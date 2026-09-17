@@ -219,7 +219,7 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <br>
 
-## 🐍 Contribution Journey
+## ⭐ Contribution Journey
 
 <div align="center">
 
@@ -232,7 +232,9 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
+<br>
+## 🐍 Let Snake Eat My Contributions
+<br>
 ![snake gif](https://github.com/MeghnaS21/MeghnaS21/raw/output/github-snake-dark.svg)
 
 ## 🎮 Outside the Terminal
