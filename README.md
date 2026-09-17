@@ -223,7 +223,7 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake-dark.svg" width="98%" />
+<img src="https://streak-stats.demolab.com?user=ashimkhadkaofficial&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
