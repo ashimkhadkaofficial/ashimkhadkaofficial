@@ -8,8 +8,13 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=7B61FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" />
+<a href="https://github.com/ashimkhadkaofficial">
+  <img src="https://komarev.com/ghpvc/?username=ashimkhadkaofficial&label=VISITORS&color=7B61FF&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/ashimkhadkaofficial">
+  <img src="https://img.shields.io/github/followers/ashimkhadkaofficial?label=FOLLOWERS&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" />
+</a>
 
 <br><br>
 
