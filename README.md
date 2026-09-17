@@ -193,17 +193,17 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashimkhadkaofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashimkhadkaofficial&theme=radical&hide_border=true&background=0D1117" height="165" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimkhadkaofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashimkhadkaofficial&theme=react-dark&hide_border=true&bg_color=0D1117" width="98%" />
 
 </div>
 
@@ -222,8 +222,9 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 ## ⭐ Contribution Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashimkhadkaofficial&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ashimkhadkaofficial&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=ashimkhadkaofficial&theme=tokyonight&hide_border=true&border_radius=10" />
+
 </div>
 
 
