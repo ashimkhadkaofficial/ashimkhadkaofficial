@@ -213,7 +213,7 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6&margin-w=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashimkhadkaofficial&theme=radical&no-frame=true&row=1&column=6&margin-w=12" />
 
 </div>
 
@@ -223,7 +223,7 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake-dark.svg" width="98%" />
 
 </div>
 
