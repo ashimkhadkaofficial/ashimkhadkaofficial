@@ -186,69 +186,24 @@ I also enjoy exploring **AI, machine learning, APIs, automation, and new develop
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
-<h2>📈 GitHub Statistics</h2>
-
+## 📈 GitHub Activity
 <div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=ashimkhadkaofficial&theme=radical&hide_border=true&background=0D1117&border_radius=10"
-width="70%"
-/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ashimkhadkaofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashimkhadkaofficial&theme=radical&hide_border=true&background=0D1117" width="48%" />
 <br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=ashimkhadkaofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github"
-width="48%"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimkhadkaofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
-width="48%"
-/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimkhadkaofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
-
-
-<h2>📅 Contribution Graph</h2>
-
+## 🏅 GitHub Trophies
 <div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ashimkhadkaofficial&bg_color=0D1117&color=FFFFFF&line=7B61FF&point=00D9FF&area=true&hide_border=true"
-width="95%"
-/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ashimkhadkaofficial&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
 </div>
-
-
-<h2>🐍 Contribution Journey</h2>
-
+## 🐍 Contribution Journey
 <div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-src="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake.svg"
-width="100%"
-alt="GitHub Contribution Snake"
-/>
-
-</picture>
-
+<img src="https://raw.githubusercontent.com/ashimkhadkaofficial/ashimkhadkaofficial/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
+<p align="center">
+  🐍 <i>Contributions in motion.</i>
+</p>
 
 ## 🎮 Outside the Terminal
 
